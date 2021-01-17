@@ -1,0 +1,52 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <EditText
+        android:id="@+id/LEN"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="162dp"
+        android:ems="10"
+        android:hint="ENTER LENGTH"
+        android:gravity="center"
+        android:inputType="numberDecimal" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/WID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/LEN"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="59dp"
+        android:ems="10"
+        android:hint="ENTER WIDTH"
+        android:gravity="center"
+        android:inputType="numberDecimal" />
+
+    <ImageView
+        android:id="@+id/dsub"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_below="@+id/WID"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="51dp"
+        android:src="@drawable/addsm" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:layout_marginTop="62dp"
+        android:editable="false"
+        android:text="" />
+
+</RelativeLayout>

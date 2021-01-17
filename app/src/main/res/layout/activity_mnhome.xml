@@ -1,0 +1,42 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <ImageView
+        android:id="@+id/hijmp"
+        android:layout_width="145dp"
+        android:layout_height="120dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="80dp"
+        android:src="@drawable/highjmpsm" />
+
+    <ImageView
+        android:id="@+id/lngjmp"
+        android:layout_width="145dp"
+        android:layout_height="120dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/hijmp"
+        android:layout_marginRight="10dp"
+        android:src="@drawable/longjmpsm" />
+
+    <ImageView
+        android:id="@+id/trjmp"
+        android:layout_width="145dp"
+        android:layout_height="120dp"
+        android:layout_alignLeft="@+id/hijmp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="80dp"
+        android:layout_marginLeft="0dp"
+        android:src="@drawable/trpljmpsm" />
+
+    <ImageView
+        android:id="@+id/baka"
+        android:layout_width="145dp"
+        android:layout_height="120dp"
+        android:layout_alignLeft="@+id/lngjmp"
+        android:layout_alignTop="@+id/trjmp"
+        android:src="@drawable/bigbacksm" />
+
+</RelativeLayout>

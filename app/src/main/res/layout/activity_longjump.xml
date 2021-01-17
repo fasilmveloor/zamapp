@@ -1,0 +1,60 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <EditText
+        android:id="@+id/lpoint"
+        android:layout_width="290dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/ladnu"
+        android:layout_below="@+id/ladnu"
+        android:layout_marginTop="98dp"
+        android:ems="10"
+        android:hint="JUMP DISTANCE"
+        android:gravity="center"
+        android:inputType="numberDecimal" />
+
+    <EditText
+        android:id="@+id/ladnu"
+        android:layout_width="290dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:ems="10"
+        android:hint="PLESE ENTER ADMISSION NO"
+        android:gravity="center"
+        android:inputType="number" >
+
+        <requestFocus />
+    </EditText>
+
+    <ImageButton
+        android:id="@+id/lsubmit"
+        android:layout_width="100dp"
+        android:layout_height="70dp"
+        android:layout_alignLeft="@+id/lpoint"
+        android:layout_below="@+id/lpoint"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="63dp"
+        android:src="@drawable/dfdsm" />
+
+    <ImageButton
+        android:id="@+id/lwinner"
+        android:layout_width="100dp"
+        android:layout_height="70dp"
+        android:layout_alignRight="@+id/lpoint"
+        android:layout_alignTop="@+id/lsubmit"
+        android:layout_marginRight="0dp"
+        android:src="@drawable/dfdsm" />
+
+    <ImageButton
+        android:id="@+id/lprize"
+        android:layout_width="290dp"
+        android:layout_height="45dp"
+        android:layout_alignRight="@+id/lwinner"
+        android:layout_below="@+id/lsubmit"
+        android:layout_marginTop="16dp"
+        android:src="@drawable/doog" />
+
+</RelativeLayout>

@@ -1,0 +1,486 @@
+[
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_upsucces.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/upsucces.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_splashsm.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/splashsm.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_trpljmpsm.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/trpljmpsm.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_sview.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/sview.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_longdetail.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/longdetail.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_tjdetail.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/tjdetail.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_fillup.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/fillup.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_vmdetails.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/vmdetails.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_mngr.jpg.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/mngr.jpg"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_fillsuccess.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/fillsuccess.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_parti.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/parti.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_diagonalsm.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/diagonalsm.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_deleted.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/deleted.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_bbbak.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/bbbak.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_trippledat.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/trippledat.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_viewdb.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/viewdb.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_bbbaak.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/bbbaak.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_smallinsertsm.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/smallinsertsm.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_udate.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/udate.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_mnhome.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/mnhome.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_tool.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/tool.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/layout_activity_tools.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/layout/activity_tools.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_aa.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/aa.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/layout_activity_pdeleted.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/layout/activity_pdeleted.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_addsm.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/addsm.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/layout_activity_psubsucc.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/layout/activity_psubsucc.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/layout_activity_trippledat.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/layout/activity_trippledat.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_pview.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/pview.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/layout_activity_sregistermenu.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/layout/activity_sregistermenu.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_partism.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/partism.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_biggdelesm.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/biggdelesm.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_highjmpsm.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/highjmpsm.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/layout_activity_highjump.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/layout/activity_highjump.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_manview.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/manview.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/layout_activity_deleted.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/layout/activity_deleted.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_updatesmallsm.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/updatesmallsm.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_dfdsm.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/dfdsm.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_sub.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/sub.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/layout_activity_report.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/layout/activity_report.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_dlt.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/dlt.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/layout_activity_sview.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/layout/activity_sview.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/layout_activity_manager_menu.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/layout/activity_manager_menu.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_longdetails.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/longdetails.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_managersm.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/managersm.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/layout_activity_dataindetails.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/layout/activity_dataindetails.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_upd.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/upd.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/layout_activity_dat.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/layout/activity_dat.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_psubsucc.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/psubsucc.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_dataindetails.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/dataindetails.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_longdat.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/longdat.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_reportsm.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/reportsm.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_bigbacksm.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/bigbacksm.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/layout_activity_longjump.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/layout/activity_longjump.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_pdeleted.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/pdeleted.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_studentsm.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/studentsm.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_bkk.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/bkk.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_pupdatesuccess.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/pupdatesuccess.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_insertpostersm.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/insertpostersm.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_deel.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/deel.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_tpdat.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/tpdat.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/layout_activity_longdat.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/layout/activity_longdat.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_updatesm.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/updatesm.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/layout_activity_upsuccess.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/layout/activity_upsuccess.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_registersm.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/registersm.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/layout_activity_longdetails.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/layout/activity_longdetails.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_vew.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/vew.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_longjmpsm.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/longjmpsm.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_lindetail.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/lindetail.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/layout_activity_tripplejump.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/layout/activity_tripplejump.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_pregistermenu.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/pregistermenu.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/layout_activity_pview.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/layout/activity_pview.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_pfillup.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/pfillup.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_longjum.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/longjum.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_sdelete.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/sdelete.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/layout_activity_fillup.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/layout/activity_fillup.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/layout_activity_register.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/layout_activity_sdelete.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/layout/activity_sdelete.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/layout_activity_pdelete.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/layout/activity_pdelete.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_sregistermenu.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/sregistermenu.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/layout_activity_tjdetails.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/layout/activity_tjdetails.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_highjum.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/highjum.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_dre.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/dre.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_tripplejum.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/tripplejum.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/layout_activity_fillsuccess.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/layout/activity_fillsuccess.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/layout_activity_mnhome.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/layout/activity_mnhome.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_deletesmallsm.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/deletesmallsm.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_deletepostersm.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/deletepostersm.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_pdelete.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/pdelete.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_rmssm.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/rmssm.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_dat.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/dat.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_dcalc.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/dcalc.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_wow.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/wow.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/layout_activity_viewdb.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/layout/activity_viewdb.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_laasm.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/laasm.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_register.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/register.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_baaksm.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/baaksm.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_manager_menu.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/manager_menu.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_tooolssm.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/tooolssm.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/layout_splashscreen.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/layout/splashscreen.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_againbacksm.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/againbacksm.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_fillupsm.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/fillupsm.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/layout_activity_pupdatesuccess.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/layout/activity_pupdatesuccess.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_doog.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/doog.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_updatedpostersm.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/updatedpostersm.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_smallsm.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/smallsm.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/layout_activity_pfillup.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/layout/activity_pfillup.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_report.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/report.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/layout_activity_dcalc.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/layout/activity_dcalc.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/layout_activity_pregistermenu.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/layout/activity_pregistermenu.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_shift.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/shift.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_viewsm.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/viewsm.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_mview.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/mview.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/menu_tpdataindetail.xml.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/menu/tpdataindetail.xml"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_studentr.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/studentr.png"
+    },
+    {
+        "merged": "/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/res/merged/debug/drawable-hdpi_fill.png.flat",
+        "source": "/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/res/drawable-hdpi/fill.png"
+    }
+]

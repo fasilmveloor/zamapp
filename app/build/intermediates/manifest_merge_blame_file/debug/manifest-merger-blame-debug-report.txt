@@ -1,0 +1,300 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.zam"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="18"
+8-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="24" />
+9-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:9:5-168:19
+12        android:allowBackup="true"
+12-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:10:9-35
+13        android:debuggable="true"
+14        android:icon="@drawable/ic_launcher"
+14-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:11:9-45
+15        android:label="@string/app_name"
+15-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:12:9-41
+16        android:testOnly="true"
+17        android:theme="@style/AppTheme" >
+17-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:13:9-40
+18        <activity
+18-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:14:9-17:20
+19            android:name="com.example.zam.MainActivity"
+19-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:15:13-56
+20            android:label="@string/app_name" >
+20-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:16:13-45
+21        </activity>
+22        <activity
+22-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:18:9-21:20
+23            android:name="com.example.zam.REGISTER"
+23-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:19:13-52
+24            android:label="@string/title_activity_register" >
+24-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:20:13-60
+25        </activity>
+26        <activity
+26-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:22:9-25:20
+27            android:name="com.example.zam.Sregistermenu"
+27-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:23:13-57
+28            android:label="@string/title_activity_sregistermenu" >
+28-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:24:13-65
+29        </activity>
+30        <activity
+30-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:26:9-29:20
+31            android:name="com.example.zam.Fillup"
+31-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:27:13-50
+32            android:label="@string/title_activity_fillup" >
+32-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:28:13-58
+33        </activity>
+34        <activity
+34-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:30:9-33:20
+35            android:name="com.example.zam.Fillsuccess"
+35-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:31:13-55
+36            android:label="@string/title_activity_fillsuccess" >
+36-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:32:13-63
+37        </activity>
+38        <activity
+38-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:34:9-37:20
+39            android:name="com.example.zam.UPSUCCESS"
+39-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:35:13-53
+40            android:label="@string/title_activity_upsuccess" >
+40-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:36:13-61
+41        </activity>
+42        <activity
+42-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:38:9-41:20
+43            android:name="com.example.zam.SDELETE"
+43-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:39:13-51
+44            android:label="@string/title_activity_sdelete" >
+44-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:40:13-59
+45        </activity>
+46        <activity
+46-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:42:9-45:20
+47            android:name="com.example.zam.DELETED"
+47-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:43:13-51
+48            android:label="@string/title_activity_deleted" >
+48-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:44:13-59
+49        </activity>
+50        <activity
+50-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:46:9-49:20
+51            android:name="com.example.zam.Sview"
+51-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:47:13-49
+52            android:label="@string/title_activity_sview" >
+52-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:48:13-57
+53        </activity>
+54        <activity
+54-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:50:9-53:20
+55            android:name="com.example.zam.Pregistermenu"
+55-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:51:13-57
+56            android:label="@string/title_activity_pregistermenu" >
+56-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:52:13-65
+57        </activity>
+58        <activity
+58-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:54:9-57:20
+59            android:name="com.example.zam.Pfillup"
+59-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:55:13-51
+60            android:label="@string/title_activity_pfillup" >
+60-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:56:13-59
+61        </activity>
+62        <activity
+62-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:58:9-61:20
+63            android:name="com.example.zam.Pupdatesuccess"
+63-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:59:13-58
+64            android:label="@string/title_activity_pupdatesuccess" >
+64-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:60:13-66
+65        </activity>
+66        <activity
+66-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:62:9-65:20
+67            android:name="com.example.zam.Psubsucc"
+67-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:63:13-52
+68            android:label="@string/title_activity_psubsucc" >
+68-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:64:13-60
+69        </activity>
+70        <activity
+70-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:66:9-69:20
+71            android:name="com.example.zam.Pdelete"
+71-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:67:13-51
+72            android:label="@string/title_activity_pdelete" >
+72-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:68:13-59
+73        </activity>
+74        <activity
+74-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:70:9-73:20
+75            android:name="com.example.zam.Pdeleted"
+75-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:71:13-52
+76            android:label="@string/title_activity_pdeleted" >
+76-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:72:13-60
+77        </activity>
+78        <activity
+78-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:74:9-77:20
+79            android:name="com.example.zam.Manager_menu"
+79-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:75:13-56
+80            android:label="@string/title_activity_manager_menu" >
+80-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:76:13-64
+81        </activity>
+82        <activity
+82-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:78:9-81:20
+83            android:name="com.example.zam.Vmdetails"
+83-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:79:13-53
+84            android:label="@string/title_activity_vmdetails" >
+84-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:80:13-61
+85        </activity>
+86        <activity
+86-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:82:9-85:20
+87            android:name="com.example.zam.Pview"
+87-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:83:13-49
+88            android:label="@string/title_activity_pview" >
+88-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:84:13-57
+89        </activity>
+90        <activity
+90-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:86:9-89:20
+91            android:name="com.example.zam.TOOLS"
+91-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:87:13-49
+92            android:label="@string/title_activity_tools" >
+92-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:88:13-57
+93        </activity>
+94        <activity
+94-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:90:9-93:20
+95            android:name="com.example.zam.DCALC"
+95-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:91:13-49
+96            android:label="@string/title_activity_dcalc" >
+96-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:92:13-57
+97        </activity>
+98        <activity
+98-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:94:9-97:20
+99            android:name="com.example.zam.DRE"
+99-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:95:13-47
+100            android:label="@string/title_activity_dre" >
+100-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:96:13-55
+101        </activity>
+102        <activity
+102-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:98:9-101:20
+103            android:name="com.example.zam.MNHOME"
+103-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:99:13-50
+104            android:label="@string/title_activity_mnhome" >
+104-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:100:13-58
+105        </activity>
+106        <activity
+106-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:102:9-105:20
+107            android:name="com.example.zam.HIGHJUMP"
+107-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:103:13-52
+108            android:label="@string/title_activity_highjump" >
+108-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:104:13-60
+109        </activity>
+110        <activity
+110-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:106:9-109:20
+111            android:name="com.example.zam.VIEWDB"
+111-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:107:13-50
+112            android:label="@string/title_activity_viewdb" >
+112-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:108:13-58
+113        </activity>
+114        <activity
+114-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:110:9-113:20
+115            android:name="com.example.zam.LONGJUMP"
+115-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:111:13-52
+116            android:label="@string/title_activity_longjump" >
+116-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:112:13-60
+117        </activity>
+118        <activity
+118-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:114:9-117:20
+119            android:name="com.example.zam.TRIPPLEJUMP"
+119-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:115:13-55
+120            android:label="@string/title_activity_tripplejump" >
+120-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:116:13-63
+121        </activity>
+122        <activity
+122-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:118:9-121:20
+123            android:name="com.example.zam.DATA"
+123-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:119:13-48
+124            android:label="@string/title_activity_dat" >
+124-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:120:13-55
+125        </activity>
+126        <activity
+126-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:122:9-125:20
+127            android:name="com.example.zam.Dataindetails"
+127-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:123:13-57
+128            android:label="@string/title_activity_dataindetails" >
+128-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:124:13-65
+129        </activity>
+130        <activity
+130-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:126:9-129:20
+131            android:name="com.example.zam.REPORT"
+131-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:127:13-50
+132            android:label="@string/title_activity_report" >
+132-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:128:13-58
+133        </activity>
+134        <activity
+134-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:130:9-133:20
+135            android:name="com.example.zam.Longdetails"
+135-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:131:13-55
+136            android:label="@string/title_activity_longdetails" >
+136-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:132:13-63
+137        </activity>
+138        <activity
+138-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:134:9-137:20
+139            android:name="com.example.zam.LINDETAILS"
+139-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:135:13-54
+140            android:label="@string/title_activity_lindetails" >
+140-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:136:13-62
+141        </activity>
+142        <activity
+142-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:138:9-141:20
+143            android:name="com.example.zam.TPDATA"
+143-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:139:13-50
+144            android:label="@string/title_activity_tpdat" >
+144-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:140:13-57
+145        </activity>
+146        <activity
+146-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:142:9-145:20
+147            android:name="com.example.zam.TPDATAINDETAILS"
+147-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:143:13-59
+148            android:label="@string/title_activity_tpdataindetails" >
+148-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:144:13-67
+149        </activity>
+150        <activity
+150-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:146:9-149:20
+151            android:name="com.example.zam.LONGDATA"
+151-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:147:13-52
+152            android:label="@string/title_activity_longdat" >
+152-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:148:13-59
+153        </activity>
+154        <activity
+154-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:150:9-153:20
+155            android:name="com.example.zam.LONGDETAILS"
+155-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:151:13-55
+156            android:label="@string/title_activity_longdetails" >
+156-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:152:13-63
+157        </activity>
+158        <activity
+158-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:154:9-157:20
+159            android:name="com.example.zam.TRIPPLEDATA"
+159-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:155:13-55
+160            android:label="@string/title_activity_trippledat" >
+160-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:156:13-62
+161        </activity>
+162        <activity
+162-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:158:9-161:20
+163            android:name="com.example.zam.TJDETAILS"
+163-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:159:13-53
+164            android:label="@string/title_activity_tjdetails" >
+164-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:160:13-61
+165        </activity>
+166        <activity android:name="com.example.zam.splash" >
+166-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:162:9-167:20
+166-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:162:19-40
+167            <intent-filter>
+167-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:163:13-166:29
+168                <action android:name="android.intent.action.MAIN" />
+168-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:164:17-68
+168-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:164:25-66
+169
+170                <category android:name="android.intent.category.LAUNCHER" />
+170-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:165:17-76
+170-->/home/fasil/AndroidStudioProjects/SEAM1/app/src/main/AndroidManifest.xml:165:27-74
+171            </intent-filter>
+172        </activity>
+173    </application>
+174
+175</manifest>

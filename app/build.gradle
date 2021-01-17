@@ -1,0 +1,27 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 18
+
+    defaultConfig {
+        applicationId "com.example.zam"
+        minSdkVersion 18
+        targetSdkVersion 24
+    }
+
+    buildTypes {
+        debug {
+            // Show Log
+            buildConfigField "boolean", "LOG_DEBUG", "true"
+
+        }
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    implementation 'com.android.support:support-v4:18.0.0'
+}

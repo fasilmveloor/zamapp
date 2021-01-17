@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.zam"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="18"
+        android:targetSdkVersion="24" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.zam.MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.example.zam.REGISTER"
+            android:label="@string/title_activity_register" >
+        </activity>
+        <activity
+            android:name="com.example.zam.Sregistermenu"
+            android:label="@string/title_activity_sregistermenu" >
+        </activity>
+        <activity
+            android:name="com.example.zam.Fillup"
+            android:label="@string/title_activity_fillup" >
+        </activity>
+        <activity
+            android:name="com.example.zam.Fillsuccess"
+            android:label="@string/title_activity_fillsuccess" >
+        </activity>
+        <activity
+            android:name="com.example.zam.UPSUCCESS"
+            android:label="@string/title_activity_upsuccess" >
+        </activity>
+        <activity
+            android:name="com.example.zam.SDELETE"
+            android:label="@string/title_activity_sdelete" >
+        </activity>
+        <activity
+            android:name="com.example.zam.DELETED"
+            android:label="@string/title_activity_deleted" >
+        </activity>
+        <activity
+            android:name="com.example.zam.Sview"
+            android:label="@string/title_activity_sview" >
+        </activity>
+        <activity
+            android:name="com.example.zam.Pregistermenu"
+            android:label="@string/title_activity_pregistermenu" >
+        </activity>
+        <activity
+            android:name="com.example.zam.Pfillup"
+            android:label="@string/title_activity_pfillup" >
+        </activity>
+        <activity
+            android:name="com.example.zam.Pupdatesuccess"
+            android:label="@string/title_activity_pupdatesuccess" >
+        </activity>
+        <activity
+            android:name="com.example.zam.Psubsucc"
+            android:label="@string/title_activity_psubsucc" >
+        </activity>
+        <activity
+            android:name="com.example.zam.Pdelete"
+            android:label="@string/title_activity_pdelete" >
+        </activity>
+        <activity
+            android:name="com.example.zam.Pdeleted"
+            android:label="@string/title_activity_pdeleted" >
+        </activity>
+        <activity
+            android:name="com.example.zam.Manager_menu"
+            android:label="@string/title_activity_manager_menu" >
+        </activity>
+        <activity
+            android:name="com.example.zam.Vmdetails"
+            android:label="@string/title_activity_vmdetails" >
+        </activity>
+        <activity
+            android:name="com.example.zam.Pview"
+            android:label="@string/title_activity_pview" >
+        </activity>
+        <activity
+            android:name="com.example.zam.TOOLS"
+            android:label="@string/title_activity_tools" >
+        </activity>
+        <activity
+            android:name="com.example.zam.DCALC"
+            android:label="@string/title_activity_dcalc" >
+        </activity>
+        <activity
+            android:name="com.example.zam.DRE"
+            android:label="@string/title_activity_dre" >
+        </activity>
+        <activity
+            android:name="com.example.zam.MNHOME"
+            android:label="@string/title_activity_mnhome" >
+        </activity>
+        <activity
+            android:name="com.example.zam.HIGHJUMP"
+            android:label="@string/title_activity_highjump" >
+        </activity>
+        <activity
+            android:name="com.example.zam.VIEWDB"
+            android:label="@string/title_activity_viewdb" >
+        </activity>
+        <activity
+            android:name="com.example.zam.LONGJUMP"
+            android:label="@string/title_activity_longjump" >
+        </activity>
+        <activity
+            android:name="com.example.zam.TRIPPLEJUMP"
+            android:label="@string/title_activity_tripplejump" >
+        </activity>
+        <activity
+            android:name="com.example.zam.DATA"
+            android:label="@string/title_activity_dat" >
+        </activity>
+        <activity
+            android:name="com.example.zam.Dataindetails"
+            android:label="@string/title_activity_dataindetails" >
+        </activity>
+        <activity
+            android:name="com.example.zam.REPORT"
+            android:label="@string/title_activity_report" >
+        </activity>
+        <activity
+            android:name="com.example.zam.Longdetails"
+            android:label="@string/title_activity_longdetails" >
+        </activity>
+        <activity
+            android:name="com.example.zam.LINDETAILS"
+            android:label="@string/title_activity_lindetails" >
+        </activity>
+        <activity
+            android:name="com.example.zam.TPDATA"
+            android:label="@string/title_activity_tpdat" >
+        </activity>
+        <activity
+            android:name="com.example.zam.TPDATAINDETAILS"
+            android:label="@string/title_activity_tpdataindetails" >
+        </activity>
+        <activity
+            android:name="com.example.zam.LONGDATA"
+            android:label="@string/title_activity_longdat" >
+        </activity>
+        <activity
+            android:name="com.example.zam.LONGDETAILS"
+            android:label="@string/title_activity_longdetails" >
+        </activity>
+        <activity
+            android:name="com.example.zam.TRIPPLEDATA"
+            android:label="@string/title_activity_trippledat" >
+        </activity>
+        <activity
+            android:name="com.example.zam.TJDETAILS"
+            android:label="@string/title_activity_tjdetails" >
+        </activity>
+        <activity android:name="com.example.zam.splash" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

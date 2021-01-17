@@ -1,0 +1,4 @@
+#Fri Jan 01 07:16:23 IST 2021
+base.0=/home/fasil/AndroidStudioProjects/SEAM1/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

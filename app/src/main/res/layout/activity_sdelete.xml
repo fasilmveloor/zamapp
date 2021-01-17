@@ -1,0 +1,26 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <EditText
+        android:id="@+id/dd"
+        android:layout_width="290dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="160dp"
+        android:ems="10"
+        android:hint="ADMISSION NUMBER"
+        android:gravity="center"
+        android:inputType="number" />
+
+    <ImageView
+        android:id="@+id/ddd"
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:layout_below="@+id/dd"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="23dp"
+        android:src="@drawable/deletesmallsm" />
+
+</RelativeLayout>

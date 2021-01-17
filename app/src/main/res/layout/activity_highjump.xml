@@ -1,0 +1,60 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <EditText
+        android:id="@+id/point"
+        android:layout_width="290dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/adnu"
+        android:layout_below="@+id/adnu"
+        android:layout_marginTop="98dp"
+        android:ems="10"
+        android:hint="JUMP DISTANCE"
+        android:gravity="center"
+        android:inputType="numberDecimal" />
+
+    <EditText
+        android:id="@+id/adnu"
+        android:layout_width="290dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:ems="10"
+        android:hint="PLESE ENTER ADMISSION NO"
+        android:gravity="center"
+        android:inputType="number" >
+
+        <requestFocus />
+    </EditText>
+
+    <ImageButton
+        android:id="@+id/submit"
+        android:layout_width="100dp"
+        android:layout_height="70dp"
+        android:layout_alignLeft="@+id/point"
+        android:layout_below="@+id/point"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="63dp"
+        android:src="@drawable/dfdsm" />
+
+    <ImageButton
+        android:id="@+id/winner"
+        android:layout_width="100dp"
+        android:layout_height="70dp"
+        android:layout_alignRight="@+id/point"
+        android:layout_alignTop="@+id/submit"
+        android:layout_marginRight="0dp"
+        android:src="@drawable/dfdsm" />
+
+    <ImageButton
+        android:id="@+id/prize"
+        android:layout_width="290dp"
+        android:layout_height="45dp"
+        android:layout_alignRight="@+id/winner"
+        android:layout_below="@+id/submit"
+        android:layout_marginTop="16dp"
+        android:src="@drawable/doog" />
+
+</RelativeLayout>

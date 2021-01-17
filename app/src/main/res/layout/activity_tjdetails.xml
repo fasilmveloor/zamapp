@@ -1,0 +1,44 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <TextView
+        android:id="@+id/ttextView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:hint="center"
+        android:layout_marginTop="72dp"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/ttextView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/ttextView1"
+        android:layout_below="@+id/ttextView1"
+        android:hint="center"
+        android:layout_marginTop="38dp"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/ttextView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/ttextView2"
+        android:layout_below="@+id/ttextView2"
+        android:layout_marginTop="38dp"
+        android:hint="center"
+        android:text="TextView" />
+
+    <ImageView
+        android:id="@+id/treportbtn"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="112dp"
+        android:src="@drawable/updatesm" />
+
+</RelativeLayout>

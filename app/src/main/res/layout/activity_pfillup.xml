@@ -1,0 +1,154 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="426dp" >
+
+        <EditText
+            android:id="@+id/pNAME"
+            android:layout_width="290dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:ems="10"
+            android:gravity="center"
+            android:hint="NAME"
+            android:inputType="textPersonName" >
+
+            <requestFocus />
+        </EditText>
+
+        <EditText
+            android:id="@+id/padno"
+            android:layout_width="144dp"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/pNAME"
+            android:layout_below="@+id/pNAME"
+            android:layout_marginTop="60dp"
+            android:ems="10"
+            android:gravity="center"
+            android:hint="NUMBER"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/pAGE"
+            android:layout_width="144dp"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/padno"
+            android:layout_alignBottom="@+id/padno"
+            android:layout_alignRight="@+id/pNAME"
+            android:ems="10"
+            android:gravity="center"
+            android:hint="AGE"
+            android:inputType="number" />
+
+        <Spinner
+            android:id="@+id/pADTYPE"
+            android:layout_width="144dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/padno"
+            android:layout_marginTop="20dp"
+            android:background="#f92b3a"
+            android:popupBackground="#f92b3a"
+            android:textAlignment="center"
+           	android:hint="TYPE"
+            android:layout_toLeftOf="@+id/pAGE" />
+
+        <Spinner
+            android:id="@+id/pcourse"
+            android:layout_width="144dp"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@+id/pAGE"
+            android:layout_alignTop="@+id/pADTYPE"
+            android:background="#f92b3a"
+            android:popupBackground="#f92b3a"
+            
+            android:textAlignment="center" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/pNAME"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+           
+            android:text="ADMISSION DETAILS" />
+
+        <EditText
+            android:id="@+id/con"
+            android:layout_width="290dp"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/pADTYPE"
+            android:layout_below="@+id/pADTYPE"
+            android:layout_marginTop="20dp"
+            android:ems="10"
+            android:gravity="center"
+            android:hint="MOBILE"
+            android:inputType="phone" />
+
+        <ImageView
+            android:id="@+id/psave"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_below="@+id/con"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="170dp"
+            android:src="@drawable/addsm" />
+
+        <ImageView
+            android:id="@+id/pimageView1"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignTop="@+id/psave"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/againbacksm" />
+
+        <ImageView
+            android:id="@+id/pimageView2"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignRight="@+id/pcourse"
+            android:layout_alignTop="@+id/pimageView1"
+            android:src="@drawable/updatesm" />
+
+        <CheckBox
+            android:id="@+id/boxx"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/padno"
+            android:layout_below="@+id/con"
+            android:text="BOXING" />
+
+        <CheckBox
+            android:id="@+id/hj"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/boxx"
+            android:layout_below="@+id/lj"
+            android:text="HIGH JUMP" />
+
+        <CheckBox
+            android:id="@+id/tj"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/lj"
+            android:layout_below="@+id/lj"
+            android:text="TRPLE JUMP" />
+
+        <CheckBox
+            android:id="@+id/lj"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/boxx"
+            android:layout_alignBottom="@+id/boxx"
+            android:layout_alignRight="@+id/con"
+            android:text="LONG JUMP" />
+
+    </RelativeLayout>
+
+</ScrollView>

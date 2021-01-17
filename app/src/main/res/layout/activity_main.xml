@@ -1,0 +1,44 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <ImageView
+        android:id="@+id/register"
+        android:layout_width="145dp"
+        android:layout_height="120dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="80dp"
+        android:src="@drawable/registersm" />
+
+    <ImageView
+        android:id="@+id/manage"
+        android:layout_width="145dp"
+        android:layout_height="120dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/register"
+        android:layout_marginRight="10dp"
+        android:src="@drawable/managersm" />
+
+    <ImageView
+        android:id="@+id/tools"
+        android:layout_width="145dp"
+        android:layout_height="120dp"
+        android:layout_alignLeft="@+id/register"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="80dp"
+        android:layout_marginLeft="0dp"
+        android:src="@drawable/tooolssm" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="145dp"
+        android:layout_height="120dp"
+        android:layout_alignBottom="@+id/tools"
+        android:layout_alignRight="@+id/manage"
+        android:layout_marginBottom="0dp"
+        android:layout_marginRight="0dp"
+        android:src="@drawable/reportsm" />
+
+</RelativeLayout>
